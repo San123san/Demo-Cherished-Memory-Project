@@ -14,4 +14,6 @@ The website is a platform where user can upload your cherished memory with topic
 * **View Memories:** User can view other memory with topics and description.
 
 ## How can install and run
-User need to download or clone the repository and install necessary dependencies and to run the folder write run npm dev in terminal.
+1) User need to download or clone the repository
+2) Install necessary dependencies
+3) To run the folder write run npm dev in terminal.
